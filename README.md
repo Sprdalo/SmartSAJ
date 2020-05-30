@@ -11,6 +11,8 @@ This README will guide you through the setup process. If some of these steps don
 
 ### Downloading SmartSAJ
 
+- You can download the project from http://www.mediafire.com/file/71ysb6k09nwgs4y/MarkoProjekat.zip/file
+- (It isn't on the GitHub at the moment because of its size, soon it will be fixed)
 - Download the main folder ("MarkoProjekat") in directory "D:/"
 - Unzip the folder
 - Note: it is important whether you download it in the mentioned place
